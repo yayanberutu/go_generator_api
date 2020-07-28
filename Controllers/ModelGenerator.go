@@ -1,0 +1,1 @@
+//disini nanti generator model
